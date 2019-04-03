@@ -1,0 +1,1 @@
+Create table OperationData(operator varchar(1000) not null,operand1 varchar(1000) not null,operand2 varchar(1000) not null,result varchar(1000) not null);
